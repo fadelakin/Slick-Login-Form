@@ -1,0 +1,1 @@
+This is a  a minimal and slick login form using basic HTML5 and some CSS3 animations. This form is that it is very easy to change. It is also very easy to extend, add more inputs, validation, functionality etc.
