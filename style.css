@@ -43,6 +43,8 @@ table {
 }
  
 /* CSS Animations */
+/* These animations can be most likely changed
+   for css3. on todo list */
 @keyframes "login" {
  0% {
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
